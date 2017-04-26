@@ -1,0 +1,29 @@
+{
+	"autoformat": false,
+	"extensions":
+	[
+		"js",
+		"jsx",
+		"sublime-settings"
+	],
+	"options":
+	{
+		"indent":{
+			"value":"    "
+		},
+		"jsx":
+		{
+			"formatJSX": true, //default required
+      		"attrsOnSameLineAsTag": false, // move each attribute to its own line
+			"formatJSXExpressions": true,
+			"htmlOptions":
+			{
+				"brace_style": "collapse"
+			}
+		},
+		"plugins":
+		[
+			"esformatter-jsx"
+		]
+	}
+}

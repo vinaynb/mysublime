@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AngularJS",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"CleanCSS",
+		"Color Highlighter",
+		"Console Wrap",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SCRAPfy",
+		"Seti_UI",
+		"Sublime Tutor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SVG-Snippets",
+		"Theme - itg.flat"
+	]
+}

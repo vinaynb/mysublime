@@ -1,0 +1,14 @@
+{
+	// set true to remove empty line
+	"remove_extraline": false,
+	// set true to remove empty line
+	"remove_extraline": false,
+
+	// the contents of these tag blocks will be indented (add/remove as desired)
+	"tag_indent":
+	"\\{% (if|for|block|else|spaceless)|<html|<head|<body|<div|<a|<nav|<ul|<ol|<dl|<li|<table|<thead|<tbody|<tr|<th|<td|<blockquote|<select|<form|<option|<optgroup|<fieldset|<legend|<label|<header|<section|<aside|<footer|<figure|<video|<span|<p|<g|<svg|<md-toolbar|<md-button|<i|<md-sidenav|<md-menu|<md-icon|<md-content|<app-menu",
+
+	// this signals when tags should be unindented (see tags above)
+	"tag_unindent":
+	"\\{% end|</html|</head|</body|</div|</a|</nav|</ul|</ol|</dl|</li|</table|</thead|</tbody|</tr|</th|</td|</blockquote|</select|</form|</option|</optgroup|</fieldset|</legend|</label|</header|</section|</aside|</footer|</figure|</video|</span|</p|</g|</svg|</md-toolbar|</md-button|</i||</md-sidenav|</md-menu|</md-icon|</md-content|</app-menu"
+}
