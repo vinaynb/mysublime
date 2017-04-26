@@ -29,6 +29,7 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SVG-Snippets",
+		"tern_for_sublime",
 		"Theme - itg.flat"
 	]
 }

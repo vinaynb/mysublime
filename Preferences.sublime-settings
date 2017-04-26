@@ -1,11 +1,15 @@
 {
 	"always_show_minimap_viewport": true,
-	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+	"auto_complete": true,
 	"auto_complete_triggers":
 	[
 		{
-			"characters": "ng-controller=\"*",
-			"selector": "punctuation.definition.string"
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
 		}
 	],
 	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
