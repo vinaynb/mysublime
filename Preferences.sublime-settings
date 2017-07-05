@@ -1,6 +1,8 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 0,
 	"auto_complete_triggers":
 	[
 		{
@@ -12,6 +14,8 @@
 			"selector": "source.js"
 		}
 	],
+	"auto_complete_with_fields": true,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"font_options":
 	[
