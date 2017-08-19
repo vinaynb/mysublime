@@ -3,6 +3,7 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 0,
+	"word_wrap": "true",
 	"auto_complete_triggers":
 	[
 		{

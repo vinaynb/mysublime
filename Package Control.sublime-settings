@@ -11,6 +11,7 @@
 		"AutoFileName",
 		"Babel",
 		"BracketHighlighter",
+		"Chai Completions",
 		"Color Highlighter",
 		"Console Wrap",
 		"DocBlockr",
@@ -22,13 +23,10 @@
 		"Package Control",
 		"Sass",
 		"SassBeautify",
-		"SCRAPfy",
 		"Seti_UI",
 		"Sublime Tutor",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-csslint",
-		"SVG-Snippets",
 		"tern_for_sublime",
 		"Theme - itg.flat"
 	]
