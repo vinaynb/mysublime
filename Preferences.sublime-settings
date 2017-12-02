@@ -3,7 +3,6 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 0,
-	"word_wrap": "true",
 	"auto_complete_triggers":
 	[
 		{
@@ -23,7 +22,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -40,6 +39,7 @@
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"overlay_scroll_bars": "disabled",
-	"theme": "itg.flat.dark.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
 }
